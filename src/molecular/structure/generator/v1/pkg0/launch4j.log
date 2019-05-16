@@ -1,0 +1,773 @@
+
+
+Version:	3.12
+CmdLine:	F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\CP-MolGen.exe --l4j-debug
+WOW64:		no
+Working dir:	F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\.
+Java min ver:	1.004.000
+Java max ver:	
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_171
+Check launcher:	C:\Program Files\Java\jre1.8.0_171\bin\javaw.exe (OK)
+Match:		1.008.000_171
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_181
+Check launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe (OK)
+Match:		1.008.000_181
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_181
+Ignore:		1.008.000_181
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_51
+Ignore:		1.008.000_051
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_181 (32-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe
+Launcher args:	-jar "F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\CP-MolGen.exe"
+Args length:	75/32768 chars
+Exit code:	0
+
+
+Version:	3.12
+CmdLine:	F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\CP-MolGen.exe --l4j-debug
+WOW64:		no
+Working dir:	F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\.
+Java min ver:	1.008.000
+Java max ver:	
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_171
+Check launcher:	C:\Program Files\Java\jre1.8.0_171\bin\javaw.exe (OK)
+Match:		1.008.000_171
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_181
+Check launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe (OK)
+Match:		1.008.000_181
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_181
+Ignore:		1.008.000_181
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_51
+Ignore:		1.008.000_051
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_181 (32-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe
+Launcher args:	-jar "F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\CP-MolGen.exe"
+Args length:	75/32768 chars
+Exit code:	0
+
+
+Version:	3.12
+CmdLine:	F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\CP-MolGen.exe --l4j-debug
+WOW64:		no
+Working dir:	F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\.
+Java min ver:	1.004.000
+Java max ver:	
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_171
+Check launcher:	C:\Program Files\Java\jre1.8.0_171\bin\javaw.exe (OK)
+Match:		1.008.000_171
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_181
+Check launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe (OK)
+Match:		1.008.000_181
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_181
+Ignore:		1.008.000_181
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_51
+Ignore:		1.008.000_051
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_181 (32-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe
+Launcher args:	-jar "F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\CP-MolGen.exe"
+Args length:	75/32768 chars
+Exit code:	0
+
+
+Version:	3.12
+CmdLine:	F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\CP-MolGen.exe --l4j-debug
+WOW64:		no
+Working dir:	F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\.
+Java min ver:	1.004.000
+Java max ver:	
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_171
+Check launcher:	C:\Program Files\Java\jre1.8.0_171\bin\javaw.exe (OK)
+Match:		1.008.000_171
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_181
+Check launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe (OK)
+Match:		1.008.000_181
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_181
+Ignore:		1.008.000_181
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_51
+Ignore:		1.008.000_051
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_181 (32-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe
+Launcher args:	-jar "F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\CP-MolGen.exe"
+Args length:	75/32768 chars
+Exit code:	0
+
+
+Version:	3.12
+CmdLine:	F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\CP-MolGen.exe --l4j-debug
+WOW64:		no
+Working dir:	F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\.
+Java min ver:	1.008.000
+Java max ver:	
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_171
+Check launcher:	C:\Program Files\Java\jre1.8.0_171\bin\javaw.exe (OK)
+Match:		1.008.000_171
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_181
+Check launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe (OK)
+Match:		1.008.000_181
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_181
+Ignore:		1.008.000_181
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_51
+Ignore:		1.008.000_051
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_181 (32-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe
+Launcher args:	-jar "F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\CP-MolGen.exe"
+Args length:	75/32768 chars
+Exit code:	0
+
+
+Version:	3.12
+CmdLine:	F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\CP-MolGen.exe --l4j-debug
+WOW64:		no
+Working dir:	F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\.
+Java min ver:	1.008.000
+Java max ver:	
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_171
+Check launcher:	C:\Program Files\Java\jre1.8.0_171\bin\javaw.exe (OK)
+Match:		1.008.000_171
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_181
+Check launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe (OK)
+Match:		1.008.000_181
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_181
+Ignore:		1.008.000_181
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_51
+Ignore:		1.008.000_051
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_181 (32-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe
+Launcher args:	-jar "F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\CP-MolGen.exe"
+Args length:	75/32768 chars
+Exit code:	0
+
+
+Version:	3.12
+CmdLine:	F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\CP-MolGen.exe --l4j-debug
+WOW64:		no
+Working dir:	F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\.
+Java min ver:	1.008.000
+Java max ver:	
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_171
+Check launcher:	C:\Program Files\Java\jre1.8.0_171\bin\javaw.exe (OK)
+Match:		1.008.000_171
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_181
+Check launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe (OK)
+Match:		1.008.000_181
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_181
+Ignore:		1.008.000_181
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_51
+Ignore:		1.008.000_051
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_181 (32-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe
+Launcher args:	-Djava.library.path="C:\Program Files2\IBM\ILOG\CPLEX_Studio_Preview126\opl\bin\x86_win32" -Djava.security.policy=applet.policy -jar "F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\CP-MolGen.exe"
+Args length:	203/32768 chars
+Exit code:	0
+
+
+Version:	3.12
+CmdLine:	F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\CP-MolGen.exe --l4j-debug
+WOW64:		no
+Working dir:	F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\.
+Java min ver:	1.008.000
+Java max ver:	
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_171
+Check launcher:	C:\Program Files\Java\jre1.8.0_171\bin\javaw.exe (OK)
+Match:		1.008.000_171
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_181
+Check launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe (OK)
+Match:		1.008.000_181
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_181
+Ignore:		1.008.000_181
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_51
+Ignore:		1.008.000_051
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_181 (32-bit)
+Substitute:	C:\Program Files2\IBM\ILOG\CPLEX_Studio_Preview126\opl\bin\x86_win32 = 
+Launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe
+Launcher args:	-Djava.library.path="C:\Program Files2\IBM\ILOG\CPLEX_Studio_Preview126\opl\bin\x86_win32" -Djava.security.policy=applet.policy -jar "F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\CP-MolGen.exe"
+Args length:	203/32768 chars
+Exit code:	0
+
+
+Version:	3.12
+CmdLine:	F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\CP-MolGen.exe --l4j-debug
+WOW64:		no
+Working dir:	F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\.
+Java min ver:	1.008.000
+Java max ver:	
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_171
+Check launcher:	C:\Program Files\Java\jre1.8.0_171\bin\javaw.exe (OK)
+Match:		1.008.000_171
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_181
+Check launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe (OK)
+Match:		1.008.000_181
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_181
+Ignore:		1.008.000_181
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_51
+Ignore:		1.008.000_051
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_181 (32-bit)
+Substitute:	C:\Program Files2\IBM\ILOG\CPLEX_Studio_Preview126\opl\bin\x86_win32 = 
+Substitute:	-Djava.library.path=C:\Program Files2\IBM\ILOG\CPLEX_Studio_Preview126\opl\bin\x86_win32 -Djava.security.policy=applet.policy = 
+Launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe
+Launcher args:	  -jar "F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\CP-MolGen.exe"
+Args length:	77/32768 chars
+Exit code:	0
+
+
+Version:	3.12
+CmdLine:	F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\CP-MolGen.exe --l4j-debug
+WOW64:		no
+Working dir:	F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\.
+Java min ver:	1.008.000
+Java max ver:	
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_171
+Check launcher:	C:\Program Files\Java\jre1.8.0_171\bin\javaw.exe (OK)
+Match:		1.008.000_171
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_181
+Check launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe (OK)
+Match:		1.008.000_181
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_181
+Ignore:		1.008.000_181
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_51
+Ignore:		1.008.000_051
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_181 (32-bit)
+Substitute:	C:\Program Files2\IBM\ILOG\CPLEX_Studio_Preview126\opl\bin\x86_win32 = 
+Substitute:	-Djava.library.path=C:\Program Files2\IBM\ILOG\CPLEX_Studio_Preview126\opl\bin\x86_win32 -Djava.security.policy=applet.policy = 
+Substitute:	C:\Program Files2\IBM\ILOG\CPLEX_Studio_Preview126\opl\lib = 
+Launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe
+Launcher args:	   -jar "F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\CP-MolGen.exe"
+Args length:	78/32768 chars
+Exit code:	0
+
+
+Version:	3.12
+CmdLine:	F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\CP-MolGen.exe --l4j-debug
+WOW64:		no
+Working dir:	F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\.
+Java min ver:	1.008.000
+Java max ver:	
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_171
+Check launcher:	C:\Program Files\Java\jre1.8.0_171\bin\javaw.exe (OK)
+Match:		1.008.000_171
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_181
+Check launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe (OK)
+Match:		1.008.000_181
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_181
+Ignore:		1.008.000_181
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_51
+Ignore:		1.008.000_051
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_181 (32-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe
+Launcher args:	-jar "F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\CP-MolGen.exe"
+Args length:	75/32768 chars
+Exit code:	0
+
+
+Version:	3.12
+CmdLine:	F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\CP-MolGen.exe --l4j-debug
+WOW64:		no
+Working dir:	F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\.
+Java min ver:	1.008.000
+Java max ver:	
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_171
+Check launcher:	C:\Program Files\Java\jre1.8.0_171\bin\javaw.exe (OK)
+Match:		1.008.000_171
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_181
+Check launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe (OK)
+Match:		1.008.000_181
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_181
+Ignore:		1.008.000_181
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_51
+Ignore:		1.008.000_051
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_181 (32-bit)
+Substitute:	C:\Program Files2\IBM\ILOG\CPLEX_Studio_Preview126\opl\bin\x86_win32 = 
+Launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe
+Launcher args:	-Denv.c:\program.files2\ibm\ilog\cplex.studio.preview126\opl\bin\x86.win32="" -jar "F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\CP-MolGen.exe"
+Args length:	153/32768 chars
+Exit code:	0
+
+
+Version:	3.12
+CmdLine:	F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\CP-MolGen.exe --l4j-debug
+WOW64:		no
+Working dir:	F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\.
+Java min ver:	1.008.000
+Java max ver:	
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_171
+Check launcher:	C:\Program Files\Java\jre1.8.0_171\bin\javaw.exe (OK)
+Match:		1.008.000_171
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_181
+Check launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe (OK)
+Match:		1.008.000_181
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_181
+Ignore:		1.008.000_181
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_51
+Ignore:		1.008.000_051
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_181 (32-bit)
+Substitute:	C:\Program Files2\IBM\ILOG\CPLEX_Studio_Preview126\opl\bin\x86_win32 = 
+Substitute:	C:\Program Files2\IBM\ILOG\CPLEX_Studio_Preview126\opl\bin\x86_win32 = 
+Launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe
+Launcher args:	-Denv.c:\program.files2\ibm\ilog\cplex.studio.preview126\opl\bin\x86.win32=""  -jar "F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\CP-MolGen.exe"
+Args length:	154/32768 chars
+Exit code:	0
+
+
+Version:	3.12
+CmdLine:	F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\CP-MolGen.exe --l4j-debug
+WOW64:		no
+Working dir:	F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\.
+Java min ver:	1.008.000
+Java max ver:	
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_171
+Check launcher:	C:\Program Files\Java\jre1.8.0_171\bin\javaw.exe (OK)
+Match:		1.008.000_171
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_181
+Check launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe (OK)
+Match:		1.008.000_181
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_181
+Ignore:		1.008.000_181
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_51
+Ignore:		1.008.000_051
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_181 (32-bit)
+Substitute:	C:\Program Files2\IBM\ILOG\CPLEX_Studio_Preview126\opl\bin\x86_win32 = 
+Substitute:	C:\Program Files2\IBM\ILOG\CPLEX_Studio_Preview126\opl\bin\x86_win32 = 
+Launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe
+Launcher args:	-Denv.c:\program.files2\ibm\ilog\cplex.studio.preview126\opl\bin\x86.win32=""  -jar "F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\CP-MolGen.exe"
+Args length:	154/32768 chars
+Exit code:	0
+
+
+Version:	3.12
+CmdLine:	F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\CP-MolGen.exe --l4j-debug
+WOW64:		no
+Working dir:	F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\.
+Java min ver:	1.008.000
+Java max ver:	
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_171
+Check launcher:	C:\Program Files\Java\jre1.8.0_171\bin\javaw.exe (OK)
+Match:		1.008.000_171
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_181
+Check launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe (OK)
+Match:		1.008.000_181
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_181
+Ignore:		1.008.000_181
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_51
+Ignore:		1.008.000_051
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_181 (32-bit)
+Substitute:	C:\Program Files2\IBM\ILOG\CPLEX_Studio_Preview126\opl\bin\x86_win32 = 
+Substitute:	C:\Program Files2\IBM\ILOG\CPLEX_Studio_Preview126\opl\bin\x86_win32 = 
+Main class:	molecular.structure.generator.v1.pkg0.CP_MolGen
+Add classpath:	lib\jgrapht.jar
+Add classpath:	lib\jung-api-2.0.1.jar
+Add classpath:	lib\collections-generic-4.01.jar
+Add classpath:	lib\colt-1.2.0.jar
+Add classpath:	lib\concurrent-1.3.4.jar
+Add classpath:	lib\j3d-core-1.3.1.jar
+Add classpath:	lib\jung-3d-2.0.1.jar
+Add classpath:	lib\jung-3d-demos-2.0.1.jar
+Add classpath:	lib\jung-algorithms-2.0.1.jar
+Add classpath:	lib\jung-graph-impl-2.0.1.jar
+Add classpath:	lib\jung-io-2.0.1.jar
+Add classpath:	lib\jung-jai-2.0.1.jar
+Add classpath:	lib\jung-jai-samples-2.0.1.jar
+Add classpath:	lib\jung-samples-2.0.1.jar
+Add classpath:	lib\jung-visualization-2.0.1.jar
+Add classpath:	lib\stax-api-1.0.1.jar
+Add classpath:	lib\vecmath-1.3.1.jar
+Add classpath:	lib\wstx-asl-3.2.6.jar
+Add classpath:	lib\oplall.jar
+Add classpath:	C:\Program Files2\IBM\ILOG\CPLEX_Studio_Preview126\opl\bin\x86_win32
+Launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe
+Launcher args:	-Denv.c:\program.files2\ibm\ilog\cplex.studio.preview126\opl\bin\x86.win32=""  -classpath "F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\CP-MolGen.exe;lib\jgrapht.jar;lib\jung-api-2.0.1.jar;lib\collections-generic-4.01.jar;lib\colt-1.2.0.jar;lib\concurrent-1.3.4.jar;lib\j3d-core-1.3.1.jar;lib\jung-3d-2.0.1.jar;lib\jung-3d-demos-2.0.1.jar;lib\jung-algorithms-2.0.1.jar;lib\jung-graph-impl-2.0.1.jar;lib\jung-io-2.0.1.jar;lib\jung-jai-2.0.1.jar;lib\jung-jai-samples-2.0.1.jar;lib\jung-samples-2.0.1.jar;lib\jung-visualization-2.0.1.jar;lib\stax-api-1.0.1.jar;lib\vecmath-1.3.1.jar;lib\wstx-asl-3.2.6.jar;lib\oplall.jar;C:\Program Files2\IBM\ILOG\CPLEX_Studio_Preview126\opl\bin\x86_win32" molecular.structure.generator.v1.pkg0.CP_MolGen
+Args length:	745/32768 chars
+Exit code:	0
+
+
+Version:	3.12
+CmdLine:	F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\CP-MolGen.exe --l4j-debug
+WOW64:		no
+Working dir:	F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\.
+Java min ver:	1.008.000
+Java max ver:	
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_171
+Check launcher:	C:\Program Files\Java\jre1.8.0_171\bin\javaw.exe (OK)
+Match:		1.008.000_171
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_181
+Check launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe (OK)
+Match:		1.008.000_181
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_181
+Ignore:		1.008.000_181
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_51
+Ignore:		1.008.000_051
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_181 (32-bit)
+Set var:	-Djava.library.path = "C:\Program Files2\IBM\ILOG\CPLEX_Studio_Preview126\opl\bin\x86_win32
+Substitute:	C:\Program Files2\IBM\ILOG\CPLEX_Studio_Preview126\opl\bin\x86_win32 = 
+Substitute:	C:\Program Files2\IBM\ILOG\CPLEX_Studio_Preview126\opl\bin\x86_win32 = 
+Launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe
+Launcher args:	-Denv.c:\program.files2\ibm\ilog\cplex.studio.preview126\opl\bin\x86.win32=""  -jar "F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\CP-MolGen.exe"
+Args length:	154/32768 chars
+Exit code:	0
+
+
+Version:	3.12
+CmdLine:	F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\CP-MolGen.exe --l4j-debug
+WOW64:		no
+Working dir:	F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\.
+Java min ver:	1.008.000
+Java max ver:	
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_171
+Check launcher:	C:\Program Files\Java\jre1.8.0_171\bin\javaw.exe (OK)
+Match:		1.008.000_171
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_181
+Check launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe (OK)
+Match:		1.008.000_181
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_181
+Ignore:		1.008.000_181
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_51
+Ignore:		1.008.000_051
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_181 (32-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe
+Launcher args:	-jar "F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\CP-MolGen.exe"
+Args length:	75/32768 chars
+Exit code:	0
+
+
+Version:	3.12
+CmdLine:	F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\CP-MolGen.exe --l4j-debug
+WOW64:		no
+Working dir:	F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\.
+Java min ver:	1.008.000
+Java max ver:	
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_171
+Check launcher:	C:\Program Files\Java\jre1.8.0_171\bin\javaw.exe (OK)
+Match:		1.008.000_171
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_181
+Check launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe (OK)
+Match:		1.008.000_181
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_181
+Ignore:		1.008.000_181
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_51
+Ignore:		1.008.000_051
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_181 (32-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe
+Launcher args:	-jar "F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\CP-MolGen.exe"
+Args length:	75/32768 chars
+Exit code:	0
+
+
+Version:	3.12
+CmdLine:	F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\CP-MolGen.exe --l4j-debug
+WOW64:		no
+Working dir:	F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\.
+Java min ver:	1.008.000
+Java max ver:	
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_171
+Check launcher:	C:\Program Files\Java\jre1.8.0_171\bin\javaw.exe (OK)
+Match:		1.008.000_171
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_181
+Check launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe (OK)
+Match:		1.008.000_181
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_181
+Ignore:		1.008.000_181
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_51
+Ignore:		1.008.000_051
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_181 (32-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe
+Launcher args:	-Djava.library.path=C:\Program Files2\IBM\ILOG\CPLEX_Studio_Preview126\opl\bin\x86_win32 -jar "F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\CP-MolGen.exe"
+Args length:	164/32768 chars
+Exit code:	0
+
+
+Version:	3.12
+CmdLine:	F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\CP-MolGen.exe --l4j-debug
+WOW64:		no
+Working dir:	F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\.
+Java min ver:	1.008.000
+Java max ver:	
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_171
+Check launcher:	C:\Program Files\Java\jre1.8.0_171\bin\javaw.exe (OK)
+Match:		1.008.000_171
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_181
+Check launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe (OK)
+Match:		1.008.000_181
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_181
+Ignore:		1.008.000_181
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_51
+Ignore:		1.008.000_051
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_181 (32-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe
+Launcher args:	-Djava.library.path=C:\Program Files2\IBM\ILOG\CPLEX_Studio_Preview126\opl\bin\x86_win32 -jar "F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\CP-MolGen.exe"
+Args length:	164/32768 chars
+Exit code:	0
+
+
+Version:	3.12
+CmdLine:	F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\CP-MolGen.exe --l4j-debug
+WOW64:		no
+Working dir:	F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\.
+Java min ver:	1.008.000
+Java max ver:	
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_171
+Check launcher:	C:\Program Files\Java\jre1.8.0_171\bin\javaw.exe (OK)
+Match:		1.008.000_171
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_181
+Check launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe (OK)
+Match:		1.008.000_181
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_181
+Ignore:		1.008.000_181
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_51
+Ignore:		1.008.000_051
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_181 (32-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe
+Launcher args:	-Djava.library.path=C:\Program Files2\IBM\ILOG\CPLEX_Studio_Preview126\opl\bin\x86_win32 -jar "F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\CP-MolGen.exe"
+Args length:	164/32768 chars
+Exit code:	0
+
+
+Version:	3.12
+CmdLine:	F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\CP-MolGen.exe --l4j-debug
+WOW64:		no
+Working dir:	F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\.
+Java min ver:	1.008.000
+Java max ver:	
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_171
+Check launcher:	C:\Program Files\Java\jre1.8.0_171\bin\javaw.exe (OK)
+Match:		1.008.000_171
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_181
+Check launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe (OK)
+Match:		1.008.000_181
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_181
+Ignore:		1.008.000_181
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_51
+Ignore:		1.008.000_051
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_181 (32-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe
+Launcher args:	-Djava.library.path=C:\Program Files2\IBM\ILOG\CPLEX_Studio_Preview126\opl\bin\x86_win32 -jar "F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\CP-MolGen.exe"
+Args length:	164/32768 chars
+Exit code:	0
+
+
+Version:	3.12
+CmdLine:	F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\CP-MolGen.exe --l4j-debug
+WOW64:		no
+Working dir:	F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\.
+Java min ver:	1.008.000
+Java max ver:	
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_171
+Check launcher:	C:\Program Files\Java\jre1.8.0_171\bin\javaw.exe (OK)
+Match:		1.008.000_171
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_181
+Check launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe (OK)
+Match:		1.008.000_181
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_181
+Ignore:		1.008.000_181
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_51
+Ignore:		1.008.000_051
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_181 (32-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_181\bin\javaw.exe
+Launcher args:	-jar "F:\CP-MolGen\src\molecular\structure\generator\v1\pkg0\CP-MolGen.exe"
+Args length:	75/32768 chars
+Exit code:	0
