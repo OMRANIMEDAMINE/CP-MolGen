@@ -27,26 +27,36 @@ public class Experimental_TESTs {
         IloIntVar[] LS6 = null;
         IloIntVar[] LS5 = null;
         IloIntVar[] LS4 = null;
-        IloIntVar[] LS3 = null;
-    // Sp , Mult et Valence
-    int N =10;
-    int[] GettableOfValenceWithoutHydrogene={4, 3, 3, 3, 4, 2, 2, 1, 1, 1};
-    
-    int[] GettableOfHybridation={2, 2, 3, 3, 3, 3, 3, 3, 3, 3};
- //bond (1,2) (2, 7)
-//(2 3); (2 9); (3 6); (3 8) (3 9); (3 10); (4 6); (4 8); (4 10); (6 7); (8 10).
-    
-    int NumberOfCorrelation= 9;
+        IloIntVar[] LS3 = null;    
 
-    int [] tableOfCorrelationatom1=    {1, 3, 1, 1, 3, 3, 4, 5, 5};
-    int [] tableOfCorrelationatom2=    {6, 8, 5, 10, 4, 6, 8, 6, 7};
-    int [] tableOfCorrelationProximity={2, 2, 1, 1, 1, 1, 1, 1, 1, 1};
-    
-    //Fragments imposed
-    boolean[] ImposedFragments={false, false, true,false};
-    
+  
+        // Acalaome
+        int N =10;
+        int[] GettableOfValenceWithoutHydrogene={4,3,3,3,4,2,2,1,1,1};
+        int[] GettableOfHybridation=            {2,2,3,3,3,3,3,3,3,3};
+        
+
+        int NumberOfCorrelation= 9;
+        int [] tableOfCorrelationatom1=    {1,1,1,3,3,3,4,5,5};
+        int [] tableOfCorrelationatom2=    {5,6,10,4,6,8,8,6,7};
+        int [] tableOfCorrelationProximity={1,2,1,1,1,2,1,1,1};
+     
+/*
+BOND 5 4
+BOND 2 1
+BOND 2 3
+BOND 4 3
+BOND 4 8
+*/
+        
+
+   //Fragments imposed
+    boolean[] ImposedFragments={false, false, false,true};
     //Fragments Forbidden 
-    boolean[] ForbiddenFragments={false,false , false, false};
+    boolean[] ForbiddenFragments={true, true, false, false};
+    
+    
+    
     ArrayList<int []> ExplicitCycle3 = null;
     ArrayList<int []> ExplicitCycle4 = null;
     ArrayList<int []> ExplicitCycle5 = null;
