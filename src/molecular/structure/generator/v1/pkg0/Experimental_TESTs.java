@@ -28,32 +28,54 @@ public class Experimental_TESTs {
         IloIntVar[] LS5 = null;
         IloIntVar[] LS4 = null;
         IloIntVar[] LS3 = null;    
-
-  
-        // Acalaome
-        int N =10;
-        int[] GettableOfValenceWithoutHydrogene={4,3,3,3,4,2,2,1,1,1};
-        int[] GettableOfHybridation=            {2,2,3,3,3,3,3,3,3,3};
-        
-
-        int NumberOfCorrelation= 9;
-        int [] tableOfCorrelationatom1=    {1,1,1,3,3,3,4,5,5};
-        int [] tableOfCorrelationatom2=    {5,6,10,4,6,8,8,6,7};
-        int [] tableOfCorrelationProximity={1,2,1,1,1,2,1,1,1};
-     
 /*
-BOND 5 4
-BOND 2 1
-BOND 2 3
-BOND 4 3
-BOND 4 8
-*/
-        
+MULT 1 C 2 0
+MULT 2 C 2 0
+MULT 3 C 2 0
+MULT 4 C 2 0
+MULT 5 C 2 1
+MULT 6 C 2 1
+MULT 7 C 2 1
+MULT 8 C 2 1
+MULT 9 C 2 1
+MULT 10 C 3 1
+MULT 11 C 3 2
+MULT 12 C 3 1
+MULT 13 C 3 1
+MULT 14 C 3 2
+MULT 15 C 3 0
+MULT 16 C 3 2
+MULT 17 C 3 1
+MULT 18 C 3 2
+MULT 19 C 3 2
+MULT 20 C 3 1
+MULT 21 C 3 2
+MULT 22 N 3 0
+MULT 23 N 3 0
+MULT 24 O 3 0
+MULT 25 O 2 0
+4,4,4,4,3,3,3,3,3,3,2,3,3,2,4,2,3,2,2,3,2,4,4,4,4*/
 
-   //Fragments imposed
-    boolean[] ImposedFragments={false, false, false,true};
+
+
+
+
+        // Strych Standard 
+        int N =25;
+        int[] GettableOfValenceWithoutHydrogene={4,4,4,4,3,3,3,3,3,3,2,3,3,2,4,2,3,2,2,3,2, 3,3,2,2};
+        int[] GettableOfHybridation=            {2,2,2,2,2,2,2,2,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2};
+
+
+        int NumberOfCorrelation= 60;
+        int [] tableOfCorrelationatom1=    {5,1,1,13,17,20,21,12,15,13,17,20,12,15,2,2,4,1,2,3,20,7,10,16,15,13,15,17,5,6,     1,2,2,2,3,3,3,4,4,4,6,6,10,10,12,12,13,14,14,15,15,17,17,            2,3,10,11,15,14,16};
+        int [] tableOfCorrelationatom2=    {7,25,22,17,20,21,12,15,13,22,10,3,23,4,8,4,9,19,8,14,21,9,19,18,13,17,18,20,8,11,   10,5,9,13,11,17,21,7,13,18,14,20,11,13,13,20,18,16,20,16,21,19,21,   4,6,24,24,12,23,23};
+        int [] tableOfCorrelationProximity={1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,                        2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,                       1,1,1,1,1,1,1};
+
+    //Fragments imposed
+    boolean[] ImposedFragments={false, false, false,false};
     //Fragments Forbidden 
-    boolean[] ForbiddenFragments={true, true, false, false};
+    boolean[] ForbiddenFragments={true, false, false, false};
+ 
     
     
     
@@ -553,6 +575,10 @@ BOND 4 8
                 boolean ok = false;
                 cp.startNewSearch();
                 int compteur = 0;
+                /*
+                System.out.print(" "+cp.getCPImpl());
+                System.out.print(" "+cp.getInfo(IloCP.DoubleInfo.SolveTime));
+                System.out.print(" "+cp.getModelImplSafe());*/
                 while (cp.next()) {
                     compteur++;
                     ok = true;

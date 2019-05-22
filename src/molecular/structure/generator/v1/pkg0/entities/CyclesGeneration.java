@@ -120,18 +120,18 @@ public class CyclesGeneration {
     }
             
             
-         
+         /*
     
     public static void main(String args[]) {
         
          Date Start = new Date();
                    
          //System.out.println(""+CyclesGeneration.Cycles(10, 3));
-        CyclesGeneration.Cycles(10, 4);
+        CyclesGeneration.Cycles(10, 3);
         Date Stop = new Date();
                     double diff = Stop.getTime() - Start.getTime() ;
                     diff = diff /1000 %60 ;
                      System.out.println(diff);
-      }
+      }*/
     
 }
